@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+body{
+    padding: 10px;
+}
+.container1{
+    padding:3.5rem;
+    background-color: beige;
+}
+
+.container1:hover{
+    background-color: rgb(221, 238, 238);
+}
+
+
+.physical-desc{
+    position:relative;
+    right:3rem;
+    top:5rem;
+}
+
+.container2{
+    padding: 3.5rem;
+    background-color: rgb(207, 213, 213);
+}
+
+.container2:hover{
+    background-color: rgb(131, 137, 137);
+}
+
+
+.aesthetic-desc{
+    position:relative;
+    right:3rem;
+    top:7.5rem;
+}
+
+.moral-desc{
+    position:relative;
+    right:3rem;
+    top:4rem;
+}
+
+.intellectual-desc{
+    position:relative;
+    right:3rem;
+    top:2rem;
+}
+
+.nav-item{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-emphasis-color: rgb(27, 24, 24);
+}

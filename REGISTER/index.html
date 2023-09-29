@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up!!</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="outer-box">
+        <div class="inner-box">
+            <header class="signup-header">
+                <h1>Signup</h1>
+                <p>it just takes 30 seconds</p>
+            </header>
+            <main>
+                <div class="signup-body">
+                    <form action="indexc.php" method="post">
+                        <p>
+                            <label for="fullname">User name</label>
+                            <input type="text" id="fullname" name="fullname" >
+                        </p>
+                        <p>
+                            <label for="email">Your Email</label>
+                            <input type="text" id="email" name="email" >
+                        </p>
+                        <p>
+                            <label for="password">Your Password</label>
+                            <input type="text" id="password" name="password" placeholder="Atleast 8 charachters" required >
+                        </p>
+                        <p>
+                            <label for="user_type">User Type</label>
+                            <select name = "dropdown">
+                                <option value="Admin" name="user_type">Admin</option>
+                                <option value="Faculty" name="user_type">Faculty</option>
+                                <option value="Student" name="user_type">Student</option>
+                            </select>
+                        </p>
+                        <p>
+                            <input type="submit" id="submit" value="Create Account">
+                        </p>
+                    </form>
+                </div>
+            </main>
+            <footer class="signup-footer">
+                <p>Already have an account ?<a href="./login.html">Login</a></p>
+            </footer>
+        </div>
+        <div class="circle c1"></div>
+        <div class="circle c2"></div>
+    </div>
+</body>
+</html>

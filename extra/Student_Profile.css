@@ -1,0 +1,56 @@
+.c1{
+    position: relative;
+    top:8rem;
+    background-color: rgb(41, 133, 179);  
+    padding: 1.1rem;
+}
+  
+.circle {
+      border: 1px solid black;
+      border-radius: 50%;
+      display: inline-block;
+}
+.circle img {
+      border-radius: 50%;
+      display: block;
+}
+  
+.stuimage{
+      position: relative;
+      left:rem;
+}
+  
+.logo{
+      position: relative;
+      left:12rem;
+      top:0.5rem;
+}
+  
+.banasthali{
+      position: relative;
+      left: 12rem;
+      font-size: smaller;
+      top:0;
+}
+  
+.vidyapith{
+      position: relative;
+      left: 7rem;
+      font-size: smaller;
+      top:0.9rem; 
+}
+  
+#heading{
+      position: relative;
+      top:3rem;
+      left:3rem;
+      font-size: 2rem;
+      font-weight:600;
+}
+  
+
+.c2{
+      position: relative;
+      top:10rem;
+}
+  
