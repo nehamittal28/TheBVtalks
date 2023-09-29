@@ -20,6 +20,7 @@ XAMPP Server:
 
 
 TECH STACKS:
+
 1)HTML:
   Hyper Text Markup Language is a markup language used to design static web pages.
 
@@ -49,10 +50,12 @@ TECH STACKS:
 OVERVIEW
 
 PROBLEM STATEMENT:
+
 The existing Banasthali Vidyapith Web Application has a traditional user interface and has no functionality through which students can know about faculty 
 and reach out to them at time of difficulty.
 
 SOLUTION STATEMENT:
+
 We have improved the user interface of existing institutional web application and added some useful functionalities such as faculty profile which can be 
 updated by the respective faculty and can post articles, documents, images, research papers on their subject of interest which can be viewed by students 
 and can reach out to them at the time of difficulty.
@@ -61,6 +64,7 @@ semester.
 Only the registered users that are students and faculty can view faculty profile whereas student profile can be viewed by the student itself only.
 
 ABOUT:
+
 This project is based on the educational institute system where this application gives maximum services at one place that is used by System Administration, Faculty, Students and Guest Users. It is user friendly application to interact, manage and access information about Banasthali Vidyapith.
 The project focuses in building an application that will provide the information regarding Banasthali Vidyapith Institute. The admission openings, the fee structure, course structure, life at Banasthali and all the educational programs provided by the institute.
 The features that can be used by the intended audience will be:
@@ -71,7 +75,9 @@ The features that can be used by the intended audience will be:
 
 
 CONSTRAINTS:
+
 The constraints of the project are:
+
 1)The resources will be accessed only by the registered users and will be updated by the Admin.  
 2)The faculty profiles will not be visible to the guest users. 
 3)Student profile will not be visible to anyone other than the student itself and their guardians.
