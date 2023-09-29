@@ -1,12 +1,14 @@
 # Thebvtalks
 INSTALLATION
 
-Visual Studio Code
+Visual Studio Code:
+
 1.Download the Visual Studio Code installer for Windows.
 2.Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). This will only take a minute.
 3.By default, VS Code is installed under C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code.
 
-XAMPP Server
+XAMPP Server:
+
 1.In the web browser, visit Apache Friends and download XAMPP installer.
 2.During the installation process, select the required components like MySQL, FileZilla ftp server, PHP, phpMyAdmin or leave the default options and click the Next button. 
 3.Uncheck the Learn more about bitnami option and click Next button.
@@ -21,25 +23,25 @@ TECH STACKS:
 1)HTML:
   Hyper Text Markup Language is a markup language used to design static web pages.
 
-2)CSS
+2)CSS:
   Cascading Style Sheet is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.  
 
-3)JAVASCRIPT
+3)JAVASCRIPT:
   JavaScript, often abbreviated as JS, is a Programming language that is one of the technologies of the World Wide Web, alongside HTML and CSS.
 
-4)Python
+4)Python:
   Python is a high-level, general-purpose Programming Language. 
 
-5)SQL
+5)SQL:
   SQL is a standard language for storing, manipulating and retrieving data in databases. 
 
-6)MySQL
+6)MySQL:
   MySQL is the open-source database that enables a DBA, developer, or data architect to visually design, model, generate, and manage databases. 
 
-7)PHP
+7)PHP:
   PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
 
-8)XAMPP
+8)XAMPP:
   XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be
  incredibly easy to install and to use.
 
